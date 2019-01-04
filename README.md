@@ -1,2 +1,2 @@
 # PSKreporter
-Download a log file from PSKreporter and draw a map
+Download a log file from PSKreporter and draw a map.
